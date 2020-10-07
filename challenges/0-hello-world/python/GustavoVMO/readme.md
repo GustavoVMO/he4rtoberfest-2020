@@ -8,7 +8,7 @@
 
 **Dificuldade de Resolução:** - Baixa
 
-**Como rodar o desafio**: 
+**Como rodar o desafio**:: 
 
 Use o comando abaixo: 
 ```bash
